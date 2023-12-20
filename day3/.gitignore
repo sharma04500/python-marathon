@@ -1,0 +1,6 @@
+__pycache__
+
+#    This is a bytecode directory created by python. Python interpretor generates this directory
+# to store the compiled version of the code as cache when modules are used, in order to reduce the 
+# execution time during future executions, as python is a interpretor language and directly executes
+# the source code.
