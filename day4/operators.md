@@ -39,20 +39,20 @@ Identity operators will perform the comparision over the value of two different 
 * "is"      - indicates equality in terms of usage and returns *true* if the condition is satisfied.
 * "is not"  - indicates inequality in terms of usage and returns *true* if the condition is satisfied.
 
-### Logical Operators
+### 4. Logical Operators
 Logical operators will allow the user to perform logical comparision over two outputs. There are three different logical operators as follows.
 
 * "and" - returns true if both the operands are true.
 * "or"  - returns true if one of the oprands is true.
 * "not" - returns the opposite bool of the operand.
 
-### Membership Operators
+### 5. Membership Operators
 Usually, Membership operators are employed to compare a value with the list of values and check for the availability. There are two different membership operators as follows.
 
 * "in"     - Returns *true* if the provided value is in the provided list.
 * "not in" - Returns *true* if the provided value has no match the requested list.
 
-### Relational Operators
+### 6. Relational Operators
 In Python, Relational operators are used to compare the values and validate their condition through comparing the relation in between any given values. The different types of relational operators in Python are:
 
 * "=="   - Equal to
