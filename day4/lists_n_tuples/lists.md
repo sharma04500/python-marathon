@@ -88,4 +88,4 @@ primes = [7 , 3, 11, 5, 13]
 primes.sort()
 print(primes)
 ```
-The function `<list_name>.sort()` is used to sort the elements of a list into an order. sort() function shouldn't be called inside a print function. It should be explicitly specified and print then prints the current state of the list.
+The function `<list_name>.sort()` is used to sort the elements of a list into an ascending order. sort() function shouldn't be called inside a print function. It should be explicitly specified and print then prints the current state of the list.

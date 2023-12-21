@@ -25,3 +25,6 @@ print(primes)
 primes1 = [7 , 3, 11, 5, 13]
 primes1.sort()
 print(primes1)
+
+tuple = (1, 3, "nellore")
+print(tuple)
