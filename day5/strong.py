@@ -13,8 +13,10 @@ def main():
     for x in folder:
             values, error = checking(x)
             if values:
-                 print(f"The files in {x} are: ", os.listdir(x))
-                 for i in values:
-                      print(f"The errorMessage for {x}:", error)
+                print(f"The files in {x} are: ")
+                for i in values:
+                      print(i)
+            else:
+                print(f"The errorMessage for {x}:", error)
 
 main()
