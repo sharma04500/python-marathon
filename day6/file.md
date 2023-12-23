@@ -12,6 +12,8 @@ student_info = {
 ```
 To extract the data from a dictionary, the variable assigned to the dictionary is called along with the required field as illustrated below.
 ```
-print(student_info) # prints the entire dictionary ```
+print(student_info) # prints the entire dictionary 
 ```
-print(student_info["Age"]) # prints 4, as mentioned in the dictionary.```
+```
+print(student_info["Age"]) # prints 4, as mentioned in the dictionary.
+```
